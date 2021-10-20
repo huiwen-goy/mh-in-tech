@@ -11,5 +11,7 @@ https://drive.google.com/drive/folders/1kUGWkobEvO4GuN0z2UPAltsrK1wFxIVD?usp=sha
 
 ### OSMI
 
-Multinomial logistic regression (work time affected ~ 3 workplace/support variables) & logistic regression (current disorder ~ 3 demographic variables):
+Multinomial logistic regression (work time affected ~ 3 workplace/support variables) & 
+
+logistic regression (current disorder ~ 3 demographic variables):
 https://colab.research.google.com/drive/1KwB92q39Ftr923lDEHEZ3iVx_b4ZukIe?usp=sharing
