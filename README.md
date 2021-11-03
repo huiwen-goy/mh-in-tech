@@ -11,9 +11,11 @@ The goals of this project were to:
 
 #### About the code
 
-BRFSS_compile_5y_data.R: read BRFSS xport data file, calculate survey weight adjustments, merge 5 years of BRFSS data into one dataset
+BRFSS_compile_5y_data.R:   
+read BRFSS xport data file, calculate survey weight adjustments, merge 5 years of BRFSS data into one dataset  
 
-BRFSS_LR_analysis.R: recode variables and perform logistic regression, incorporating survey design
+BRFSS_LR_analysis.R:   
+recode variables and perform logistic regression, incorporating survey design  
 
 #### Results and conclusions
 
