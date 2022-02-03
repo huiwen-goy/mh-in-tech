@@ -1,3 +1,7 @@
+#### Report
+
+[https://huiwen-goy.github.io/mh-in-tech/mental_health_genpop_tech.html](https://huiwen-goy.github.io/mh-in-tech/mental_health_genpop_tech.html)
+
 #### About this project
  
 The goals of this project were to:   
@@ -19,7 +23,3 @@ recode variables and perform logistic regression, incorporating survey design
 
 mental_health_tech.ipynb:  
 code for same regressions done in R  
-
-#### Report
-
-[https://huiwen-goy.github.io/mh-in-tech/mental_health_genpop_tech.html](https://huiwen-goy.github.io/mh-in-tech/mental_health_genpop_tech.html)
