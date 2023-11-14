@@ -2,6 +2,8 @@
 
 [https://huiwen-goy.github.io/mh-in-tech/mental_health_genpop_tech.html](https://huiwen-goy.github.io/mh-in-tech/mental_health_genpop_tech.html)
 
+[Team poster](https://huiwen-goy.github.io/mh-in-tech/Team_18_Datafolio-v2-ch.pdf)
+
 #### About this project
  
 The goals of this project were to:   
